@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "wsdfhjxc"
+            }
+        ],
+        "Description": "Task manager for the Do It Yourself Bar applet",
+        "EnabledByDefault": false,
+        "Icon": "window-duplicate",
+        "Id": "task-manager-do-it-yourself-bar",
+        "License": "GPLv3",
+        "Name": "Task Manager - Do It Yourself Bar",
+        "ServiceTypes": [
+            "KWin/Script"
+        ],
+        "Version": "0.1"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}

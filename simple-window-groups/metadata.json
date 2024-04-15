@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "wsdfhjxc"
+            }
+        ],
+        "Description": "Provides a window grouping system",
+        "EnabledByDefault": false,
+        "Icon": "window-duplicate",
+        "Id": "simple-window-groups",
+        "License": "GPLv3",
+        "Name": "Simple Window Groups",
+        "ServiceTypes": [
+            "KWin/Script"
+        ],
+        "Version": "1.1"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}

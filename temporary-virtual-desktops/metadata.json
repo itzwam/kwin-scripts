@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "wsdfhjxc"
+            }
+        ],
+        "Description": "Automatically adds and removes virtual desktops",
+        "EnabledByDefault": false,
+        "Icon": "preferences-desktop-virtual",
+        "Id": "temporary-virtual-desktops",
+        "License": "GPLv3",
+        "Name": "Temporary Virtual Desktops",
+        "ServiceTypes": [
+            "KWin/Script"
+        ],
+        "Version": "0.1"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}
