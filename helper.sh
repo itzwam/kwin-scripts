@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 printUsage() {
     echo "Usage: helper.sh install|uninstall|upgrade|package name-of-the-script"
